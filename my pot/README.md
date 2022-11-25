@@ -1,1 +1,1 @@
-#SYMBOLS FOR POTENTIOMETERS
+# Symbols for potentiometers
