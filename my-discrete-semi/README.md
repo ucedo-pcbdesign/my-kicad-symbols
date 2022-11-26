@@ -1,2 +1,2 @@
-# Symbols for Discrete semiconductors
+# Symbols for Discrete Semiconductors
 Transistors, Diodes, Operational amplifiers
