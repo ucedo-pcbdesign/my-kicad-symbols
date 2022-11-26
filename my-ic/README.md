@@ -1,1 +1,1 @@
-# Symbols for integrated chips
+# Symbols for Integrated Circuits
