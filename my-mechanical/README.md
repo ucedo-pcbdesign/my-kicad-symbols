@@ -1,2 +1,2 @@
-# Symbols for Mechanicals components
+# Symbols for Mechanical components
 Connectors, Headers, Jacks, Switches
